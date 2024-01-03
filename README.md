@@ -1,4 +1,5 @@
 # Charts
+## Created this angular project which includes all about charts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
